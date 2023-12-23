@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wformat -O3 -g   CMakeFiles/BEKMP.dir/main.c.o CMakeFiles/BEKMP.dir/BEKMP.c.o CMakeFiles/BEKMP.dir/sha.c.o CMakeFiles/BEKMP.dir/local_sha2.c.o  -o BEKMP  /usr/lib/x86_64-linux-gnu/libcurl.so -ljson-c -lssl -lcrypto -lpthread -lm 
